@@ -1,4 +1,5 @@
-num = input("Digite um numero")
+num = input("Digite um numero: ")
+
 
 i=0
 
