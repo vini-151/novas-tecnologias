@@ -1,0 +1,1 @@
+prime = [True for i in range(num+1)]
